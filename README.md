@@ -180,11 +180,3 @@ Products ────┘
 
 The application uses SQLite by default (no installation needed). 
 To switch to SQL Server, update the connection string in `appsettings.json`.
-
-## 📄 License
-
-This project is for educational purposes.
-
-## 👤 Author
-
-**Narcis Nacev** - [GitHub](https://github.com/NarcisNacev1)
