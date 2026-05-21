@@ -1,0 +1,37 @@
+## Visual Studio temporary files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pidb
+*.log
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## Database files
+*.db
+*.db-shm
+*.db-wal
+
+## IDE files
+*.swp
+*.swo
+*~
+.DS_Store
+
+## NuGet packages
+packages/
+*.nupkg
+
+## Test results
+TestResults/
+*.trx
+
+## Publish outputs
+[Pp]ublish/

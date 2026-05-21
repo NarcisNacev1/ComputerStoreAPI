@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ComputerStore.API/ComputerStore.API.csproj" />
+  <Project Path="ComputerStore.Application/ComputerStore.Application.csproj" />
+  <Project Path="ComputerStore.Domain/ComputerStore.Domain.csproj" />
+  <Project Path="ComputerStore.Infrastructure/ComputerStore.Infrastructure.csproj" />
+  <Project Path="ComputerStore.Tests.Integration/ComputerStore.Tests.Integration.csproj" />
+  <Project Path="ComputerStore.Tests.Unit/ComputerStore.Tests.Unit.csproj" />
+</Solution>
