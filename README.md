@@ -44,7 +44,7 @@ A RESTful Web API for a computer store built with **ASP.NET Core 10** following 
 ## 🏃‍♂️ Getting Started
 
 ### Prerequisites
-- [.NET 8 SDK](https://dotnet.microsoft.com/download)
+- [.NET 10 SDK](https://dotnet.microsoft.com/download)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) or any C# IDE
 
 ### Run Locally
