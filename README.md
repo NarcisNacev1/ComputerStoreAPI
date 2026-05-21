@@ -4,7 +4,7 @@
 [![API](https://img.shields.io/badge/Web%20API-REST-blue)](https://swagger.io/)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean-green)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-A RESTful Web API for a computer store built with **ASP.NET Core 8** following **Clean Architecture** principles.
+A RESTful Web API for a computer store built with **ASP.NET Core 10** following **Clean Architecture** principles.
 
 ## 🚀 Features
 
