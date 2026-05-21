@@ -19,10 +19,10 @@ A RESTful Web API for a computer store built with **ASP.NET Core 10** following 
 
 ## 🛠️ Technology Stack
 
-- **Framework:** .NET 8
+- **Framework:** .NET 10
 - **API Style:** RESTful Web API
 - **Database:** SQLite (Development) / SQL Server Ready
-- **ORM:** Entity Framework Core 8
+- **ORM:** Entity Framework Core 10
 - **Mapping:** AutoMapper 12.0.1
 - **Documentation:** Swagger/Swashbuckle
 - **Testing:** xUnit, Moq
